@@ -16,7 +16,7 @@
     "start": "node app.js"
   },
   "engines": {
-    "node": "16.13"
+    "node": "12.22"
   },
   "author": "",
   "license": "ISC",
